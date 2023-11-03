@@ -4,7 +4,7 @@ authors:
   - family-names: WANG
     given-names: Yijia
     orcid: https://orcid.org/0000-0002-9049-1223
-title: "My Research Software"
+title: "PDN-Test-Suite"
 version: 1.0.0
 doi: 10.5281/zenodo.10068807
 date-released: 2023-11-3
