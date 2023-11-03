@@ -1,0 +1,16 @@
+pg16/ filter=lfs diff=lfs merge=lfs -text
+pg17/ filter=lfs diff=lfs merge=lfs -text
+pg20/ filter=lfs diff=lfs merge=lfs -text
+pg15/ filter=lfs diff=lfs merge=lfs -text
+pg16/dQdx_add_diag.mtx filter=lfs diff=lfs merge=lfs -text
+pg16/dQdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg17/dFdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg17/dQdx_add_diag.mtx filter=lfs diff=lfs merge=lfs -text
+pg20/dQdx_add_diag.mtx filter=lfs diff=lfs merge=lfs -text
+pg20/dQdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg15/dQdx_add_diag.mtx filter=lfs diff=lfs merge=lfs -text
+pg16/dFdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg17/dQdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg20/dFdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg15/dFdx.mtx filter=lfs diff=lfs merge=lfs -text
+pg15/dQdx.mtx filter=lfs diff=lfs merge=lfs -text
