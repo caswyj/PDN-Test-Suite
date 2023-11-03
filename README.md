@@ -10,3 +10,7 @@ In this test suite, PDN matrices are all generated from real netlists drawn from
 and test cases. Researchers can take this test suite as a benchmark library for state-of-the-art PDN 
 simulation algorithms. If you like our test suite, please star our project, thank you very much. 
 If you have any issues, please start an Issue on this project.  
+For example, in pg1/, dQdx.mtx stores the matrix $C$ data, while dFdx.mtx stores the matrix $G$ data.
+dQdx_add_diag.mtx adds random values on the diagonal of matrix $C$ which ensures the matrix is invertible
+(in real circuits, $C$s are generally rank-deficient, this add value operation is simply for ease of use 
+ in some test situations).
